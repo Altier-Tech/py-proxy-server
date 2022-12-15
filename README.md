@@ -8,10 +8,3 @@ A simple proxy server using Python
 python3 proxy.py
 ```
 
-## Features
-
-- [x] HTTP
-- [x] HTTPS
-- [x] HTTP CONNECT
-- [x] HTTP CONNECT with HTTPS
-
