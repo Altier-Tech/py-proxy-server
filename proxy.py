@@ -8,4 +8,3 @@ import socket, sys, threading, time, os, re, select, signal, errno
 from urlparse import urlparse
 from SocketServer import ThreadingMixIn
 
-# Global variables
